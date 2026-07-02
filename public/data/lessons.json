@@ -1,0 +1,3460 @@
+[
+  {
+    "id": "ad-lesson-001",
+    "courseId": "ad-course-01",
+    "order": 1,
+    "title": "Android课程1章1",
+    "slug": "Android课程1章1",
+    "summary": "Android课程1章1",
+    "content": "# Android课程1章1\n\nAndroid课程1章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-002",
+    "courseId": "ad-course-01",
+    "order": 2,
+    "title": "Android课程1章2",
+    "slug": "Android课程1章2",
+    "summary": "Android课程1章2",
+    "content": "# Android课程1章2\n\nAndroid课程1章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-003",
+    "courseId": "ad-course-01",
+    "order": 3,
+    "title": "Android课程1章3",
+    "slug": "Android课程1章3",
+    "summary": "Android课程1章3",
+    "content": "# Android课程1章3\n\nAndroid课程1章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-004",
+    "courseId": "ad-course-01",
+    "order": 4,
+    "title": "Android课程1章4",
+    "slug": "Android课程1章4",
+    "summary": "Android课程1章4",
+    "content": "# Android课程1章4\n\nAndroid课程1章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-005",
+    "courseId": "ad-course-01",
+    "order": 5,
+    "title": "Android课程1章5",
+    "slug": "Android课程1章5",
+    "summary": "Android课程1章5",
+    "content": "# Android课程1章5\n\nAndroid课程1章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-006",
+    "courseId": "ad-course-01",
+    "order": 6,
+    "title": "Android课程1章6",
+    "slug": "Android课程1章6",
+    "summary": "Android课程1章6",
+    "content": "# Android课程1章6\n\nAndroid课程1章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-007",
+    "courseId": "ad-course-01",
+    "order": 7,
+    "title": "Android课程1章7",
+    "slug": "Android课程1章7",
+    "summary": "Android课程1章7",
+    "content": "# Android课程1章7\n\nAndroid课程1章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-008",
+    "courseId": "ad-course-01",
+    "order": 8,
+    "title": "Android课程1章8",
+    "slug": "Android课程1章8",
+    "summary": "Android课程1章8",
+    "content": "# Android课程1章8\n\nAndroid课程1章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-009",
+    "courseId": "ad-course-01",
+    "order": 9,
+    "title": "Android课程1章9",
+    "slug": "Android课程1章9",
+    "summary": "Android课程1章9",
+    "content": "# Android课程1章9\n\nAndroid课程1章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-010",
+    "courseId": "ad-course-01",
+    "order": 10,
+    "title": "Android课程1章10",
+    "slug": "Android课程1章10",
+    "summary": "Android课程1章10",
+    "content": "# Android课程1章10\n\nAndroid课程1章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-011",
+    "courseId": "ad-course-01",
+    "order": 11,
+    "title": "Android课程1章11",
+    "slug": "Android课程1章11",
+    "summary": "Android课程1章11",
+    "content": "# Android课程1章11\n\nAndroid课程1章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-012",
+    "courseId": "ad-course-01",
+    "order": 12,
+    "title": "Android课程1章12",
+    "slug": "Android课程1章12",
+    "summary": "Android课程1章12",
+    "content": "# Android课程1章12\n\nAndroid课程1章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-013",
+    "courseId": "ad-course-01",
+    "order": 13,
+    "title": "Android课程1章13",
+    "slug": "Android课程1章13",
+    "summary": "Android课程1章13",
+    "content": "# Android课程1章13\n\nAndroid课程1章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-014",
+    "courseId": "ad-course-02",
+    "order": 1,
+    "title": "Android课程2章1",
+    "slug": "Android课程2章1",
+    "summary": "Android课程2章1",
+    "content": "# Android课程2章1\n\nAndroid课程2章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-015",
+    "courseId": "ad-course-02",
+    "order": 2,
+    "title": "Android课程2章2",
+    "slug": "Android课程2章2",
+    "summary": "Android课程2章2",
+    "content": "# Android课程2章2\n\nAndroid课程2章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-016",
+    "courseId": "ad-course-02",
+    "order": 3,
+    "title": "Android课程2章3",
+    "slug": "Android课程2章3",
+    "summary": "Android课程2章3",
+    "content": "# Android课程2章3\n\nAndroid课程2章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-017",
+    "courseId": "ad-course-02",
+    "order": 4,
+    "title": "Android课程2章4",
+    "slug": "Android课程2章4",
+    "summary": "Android课程2章4",
+    "content": "# Android课程2章4\n\nAndroid课程2章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-018",
+    "courseId": "ad-course-02",
+    "order": 5,
+    "title": "Android课程2章5",
+    "slug": "Android课程2章5",
+    "summary": "Android课程2章5",
+    "content": "# Android课程2章5\n\nAndroid课程2章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-019",
+    "courseId": "ad-course-02",
+    "order": 6,
+    "title": "Android课程2章6",
+    "slug": "Android课程2章6",
+    "summary": "Android课程2章6",
+    "content": "# Android课程2章6\n\nAndroid课程2章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-020",
+    "courseId": "ad-course-02",
+    "order": 7,
+    "title": "Android课程2章7",
+    "slug": "Android课程2章7",
+    "summary": "Android课程2章7",
+    "content": "# Android课程2章7\n\nAndroid课程2章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-021",
+    "courseId": "ad-course-02",
+    "order": 8,
+    "title": "Android课程2章8",
+    "slug": "Android课程2章8",
+    "summary": "Android课程2章8",
+    "content": "# Android课程2章8\n\nAndroid课程2章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-022",
+    "courseId": "ad-course-02",
+    "order": 9,
+    "title": "Android课程2章9",
+    "slug": "Android课程2章9",
+    "summary": "Android课程2章9",
+    "content": "# Android课程2章9\n\nAndroid课程2章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-023",
+    "courseId": "ad-course-02",
+    "order": 10,
+    "title": "Android课程2章10",
+    "slug": "Android课程2章10",
+    "summary": "Android课程2章10",
+    "content": "# Android课程2章10\n\nAndroid课程2章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-024",
+    "courseId": "ad-course-02",
+    "order": 11,
+    "title": "Android课程2章11",
+    "slug": "Android课程2章11",
+    "summary": "Android课程2章11",
+    "content": "# Android课程2章11\n\nAndroid课程2章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-025",
+    "courseId": "ad-course-02",
+    "order": 12,
+    "title": "Android课程2章12",
+    "slug": "Android课程2章12",
+    "summary": "Android课程2章12",
+    "content": "# Android课程2章12\n\nAndroid课程2章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-026",
+    "courseId": "ad-course-02",
+    "order": 13,
+    "title": "Android课程2章13",
+    "slug": "Android课程2章13",
+    "summary": "Android课程2章13",
+    "content": "# Android课程2章13\n\nAndroid课程2章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-027",
+    "courseId": "ad-course-03",
+    "order": 1,
+    "title": "Android课程3章1",
+    "slug": "Android课程3章1",
+    "summary": "Android课程3章1",
+    "content": "# Android课程3章1\n\nAndroid课程3章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-028",
+    "courseId": "ad-course-03",
+    "order": 2,
+    "title": "Android课程3章2",
+    "slug": "Android课程3章2",
+    "summary": "Android课程3章2",
+    "content": "# Android课程3章2\n\nAndroid课程3章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-029",
+    "courseId": "ad-course-03",
+    "order": 3,
+    "title": "Android课程3章3",
+    "slug": "Android课程3章3",
+    "summary": "Android课程3章3",
+    "content": "# Android课程3章3\n\nAndroid课程3章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-030",
+    "courseId": "ad-course-03",
+    "order": 4,
+    "title": "Android课程3章4",
+    "slug": "Android课程3章4",
+    "summary": "Android课程3章4",
+    "content": "# Android课程3章4\n\nAndroid课程3章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-031",
+    "courseId": "ad-course-03",
+    "order": 5,
+    "title": "Android课程3章5",
+    "slug": "Android课程3章5",
+    "summary": "Android课程3章5",
+    "content": "# Android课程3章5\n\nAndroid课程3章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-032",
+    "courseId": "ad-course-03",
+    "order": 6,
+    "title": "Android课程3章6",
+    "slug": "Android课程3章6",
+    "summary": "Android课程3章6",
+    "content": "# Android课程3章6\n\nAndroid课程3章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-033",
+    "courseId": "ad-course-03",
+    "order": 7,
+    "title": "Android课程3章7",
+    "slug": "Android课程3章7",
+    "summary": "Android课程3章7",
+    "content": "# Android课程3章7\n\nAndroid课程3章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-034",
+    "courseId": "ad-course-03",
+    "order": 8,
+    "title": "Android课程3章8",
+    "slug": "Android课程3章8",
+    "summary": "Android课程3章8",
+    "content": "# Android课程3章8\n\nAndroid课程3章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-035",
+    "courseId": "ad-course-03",
+    "order": 9,
+    "title": "Android课程3章9",
+    "slug": "Android课程3章9",
+    "summary": "Android课程3章9",
+    "content": "# Android课程3章9\n\nAndroid课程3章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-036",
+    "courseId": "ad-course-03",
+    "order": 10,
+    "title": "Android课程3章10",
+    "slug": "Android课程3章10",
+    "summary": "Android课程3章10",
+    "content": "# Android课程3章10\n\nAndroid课程3章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-037",
+    "courseId": "ad-course-03",
+    "order": 11,
+    "title": "Android课程3章11",
+    "slug": "Android课程3章11",
+    "summary": "Android课程3章11",
+    "content": "# Android课程3章11\n\nAndroid课程3章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-038",
+    "courseId": "ad-course-03",
+    "order": 12,
+    "title": "Android课程3章12",
+    "slug": "Android课程3章12",
+    "summary": "Android课程3章12",
+    "content": "# Android课程3章12\n\nAndroid课程3章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-039",
+    "courseId": "ad-course-03",
+    "order": 13,
+    "title": "Android课程3章13",
+    "slug": "Android课程3章13",
+    "summary": "Android课程3章13",
+    "content": "# Android课程3章13\n\nAndroid课程3章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-040",
+    "courseId": "ad-course-04",
+    "order": 1,
+    "title": "Android课程4章1",
+    "slug": "Android课程4章1",
+    "summary": "Android课程4章1",
+    "content": "# Android课程4章1\n\nAndroid课程4章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-041",
+    "courseId": "ad-course-04",
+    "order": 2,
+    "title": "Android课程4章2",
+    "slug": "Android课程4章2",
+    "summary": "Android课程4章2",
+    "content": "# Android课程4章2\n\nAndroid课程4章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-042",
+    "courseId": "ad-course-04",
+    "order": 3,
+    "title": "Android课程4章3",
+    "slug": "Android课程4章3",
+    "summary": "Android课程4章3",
+    "content": "# Android课程4章3\n\nAndroid课程4章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-043",
+    "courseId": "ad-course-04",
+    "order": 4,
+    "title": "Android课程4章4",
+    "slug": "Android课程4章4",
+    "summary": "Android课程4章4",
+    "content": "# Android课程4章4\n\nAndroid课程4章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-044",
+    "courseId": "ad-course-04",
+    "order": 5,
+    "title": "Android课程4章5",
+    "slug": "Android课程4章5",
+    "summary": "Android课程4章5",
+    "content": "# Android课程4章5\n\nAndroid课程4章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-045",
+    "courseId": "ad-course-04",
+    "order": 6,
+    "title": "Android课程4章6",
+    "slug": "Android课程4章6",
+    "summary": "Android课程4章6",
+    "content": "# Android课程4章6\n\nAndroid课程4章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-046",
+    "courseId": "ad-course-04",
+    "order": 7,
+    "title": "Android课程4章7",
+    "slug": "Android课程4章7",
+    "summary": "Android课程4章7",
+    "content": "# Android课程4章7\n\nAndroid课程4章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-047",
+    "courseId": "ad-course-04",
+    "order": 8,
+    "title": "Android课程4章8",
+    "slug": "Android课程4章8",
+    "summary": "Android课程4章8",
+    "content": "# Android课程4章8\n\nAndroid课程4章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-048",
+    "courseId": "ad-course-04",
+    "order": 9,
+    "title": "Android课程4章9",
+    "slug": "Android课程4章9",
+    "summary": "Android课程4章9",
+    "content": "# Android课程4章9\n\nAndroid课程4章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-049",
+    "courseId": "ad-course-04",
+    "order": 10,
+    "title": "Android课程4章10",
+    "slug": "Android课程4章10",
+    "summary": "Android课程4章10",
+    "content": "# Android课程4章10\n\nAndroid课程4章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-050",
+    "courseId": "ad-course-04",
+    "order": 11,
+    "title": "Android课程4章11",
+    "slug": "Android课程4章11",
+    "summary": "Android课程4章11",
+    "content": "# Android课程4章11\n\nAndroid课程4章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-051",
+    "courseId": "ad-course-04",
+    "order": 12,
+    "title": "Android课程4章12",
+    "slug": "Android课程4章12",
+    "summary": "Android课程4章12",
+    "content": "# Android课程4章12\n\nAndroid课程4章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-052",
+    "courseId": "ad-course-04",
+    "order": 13,
+    "title": "Android课程4章13",
+    "slug": "Android课程4章13",
+    "summary": "Android课程4章13",
+    "content": "# Android课程4章13\n\nAndroid课程4章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-053",
+    "courseId": "ad-course-05",
+    "order": 1,
+    "title": "Android课程5章1",
+    "slug": "Android课程5章1",
+    "summary": "Android课程5章1",
+    "content": "# Android课程5章1\n\nAndroid课程5章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-054",
+    "courseId": "ad-course-05",
+    "order": 2,
+    "title": "Android课程5章2",
+    "slug": "Android课程5章2",
+    "summary": "Android课程5章2",
+    "content": "# Android课程5章2\n\nAndroid课程5章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-055",
+    "courseId": "ad-course-05",
+    "order": 3,
+    "title": "Android课程5章3",
+    "slug": "Android课程5章3",
+    "summary": "Android课程5章3",
+    "content": "# Android课程5章3\n\nAndroid课程5章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-056",
+    "courseId": "ad-course-05",
+    "order": 4,
+    "title": "Android课程5章4",
+    "slug": "Android课程5章4",
+    "summary": "Android课程5章4",
+    "content": "# Android课程5章4\n\nAndroid课程5章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-057",
+    "courseId": "ad-course-05",
+    "order": 5,
+    "title": "Android课程5章5",
+    "slug": "Android课程5章5",
+    "summary": "Android课程5章5",
+    "content": "# Android课程5章5\n\nAndroid课程5章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-058",
+    "courseId": "ad-course-05",
+    "order": 6,
+    "title": "Android课程5章6",
+    "slug": "Android课程5章6",
+    "summary": "Android课程5章6",
+    "content": "# Android课程5章6\n\nAndroid课程5章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-059",
+    "courseId": "ad-course-05",
+    "order": 7,
+    "title": "Android课程5章7",
+    "slug": "Android课程5章7",
+    "summary": "Android课程5章7",
+    "content": "# Android课程5章7\n\nAndroid课程5章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-060",
+    "courseId": "ad-course-05",
+    "order": 8,
+    "title": "Android课程5章8",
+    "slug": "Android课程5章8",
+    "summary": "Android课程5章8",
+    "content": "# Android课程5章8\n\nAndroid课程5章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-061",
+    "courseId": "ad-course-05",
+    "order": 9,
+    "title": "Android课程5章9",
+    "slug": "Android课程5章9",
+    "summary": "Android课程5章9",
+    "content": "# Android课程5章9\n\nAndroid课程5章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-062",
+    "courseId": "ad-course-05",
+    "order": 10,
+    "title": "Android课程5章10",
+    "slug": "Android课程5章10",
+    "summary": "Android课程5章10",
+    "content": "# Android课程5章10\n\nAndroid课程5章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-063",
+    "courseId": "ad-course-05",
+    "order": 11,
+    "title": "Android课程5章11",
+    "slug": "Android课程5章11",
+    "summary": "Android课程5章11",
+    "content": "# Android课程5章11\n\nAndroid课程5章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-064",
+    "courseId": "ad-course-05",
+    "order": 12,
+    "title": "Android课程5章12",
+    "slug": "Android课程5章12",
+    "summary": "Android课程5章12",
+    "content": "# Android课程5章12\n\nAndroid课程5章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-065",
+    "courseId": "ad-course-05",
+    "order": 13,
+    "title": "Android课程5章13",
+    "slug": "Android课程5章13",
+    "summary": "Android课程5章13",
+    "content": "# Android课程5章13\n\nAndroid课程5章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-066",
+    "courseId": "ad-course-06",
+    "order": 1,
+    "title": "Android课程6章1",
+    "slug": "Android课程6章1",
+    "summary": "Android课程6章1",
+    "content": "# Android课程6章1\n\nAndroid课程6章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-067",
+    "courseId": "ad-course-06",
+    "order": 2,
+    "title": "Android课程6章2",
+    "slug": "Android课程6章2",
+    "summary": "Android课程6章2",
+    "content": "# Android课程6章2\n\nAndroid课程6章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-068",
+    "courseId": "ad-course-06",
+    "order": 3,
+    "title": "Android课程6章3",
+    "slug": "Android课程6章3",
+    "summary": "Android课程6章3",
+    "content": "# Android课程6章3\n\nAndroid课程6章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-069",
+    "courseId": "ad-course-06",
+    "order": 4,
+    "title": "Android课程6章4",
+    "slug": "Android课程6章4",
+    "summary": "Android课程6章4",
+    "content": "# Android课程6章4\n\nAndroid课程6章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-070",
+    "courseId": "ad-course-06",
+    "order": 5,
+    "title": "Android课程6章5",
+    "slug": "Android课程6章5",
+    "summary": "Android课程6章5",
+    "content": "# Android课程6章5\n\nAndroid课程6章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-071",
+    "courseId": "ad-course-06",
+    "order": 6,
+    "title": "Android课程6章6",
+    "slug": "Android课程6章6",
+    "summary": "Android课程6章6",
+    "content": "# Android课程6章6\n\nAndroid课程6章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-072",
+    "courseId": "ad-course-06",
+    "order": 7,
+    "title": "Android课程6章7",
+    "slug": "Android课程6章7",
+    "summary": "Android课程6章7",
+    "content": "# Android课程6章7\n\nAndroid课程6章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-073",
+    "courseId": "ad-course-06",
+    "order": 8,
+    "title": "Android课程6章8",
+    "slug": "Android课程6章8",
+    "summary": "Android课程6章8",
+    "content": "# Android课程6章8\n\nAndroid课程6章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-074",
+    "courseId": "ad-course-06",
+    "order": 9,
+    "title": "Android课程6章9",
+    "slug": "Android课程6章9",
+    "summary": "Android课程6章9",
+    "content": "# Android课程6章9\n\nAndroid课程6章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-075",
+    "courseId": "ad-course-06",
+    "order": 10,
+    "title": "Android课程6章10",
+    "slug": "Android课程6章10",
+    "summary": "Android课程6章10",
+    "content": "# Android课程6章10\n\nAndroid课程6章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-076",
+    "courseId": "ad-course-06",
+    "order": 11,
+    "title": "Android课程6章11",
+    "slug": "Android课程6章11",
+    "summary": "Android课程6章11",
+    "content": "# Android课程6章11\n\nAndroid课程6章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-077",
+    "courseId": "ad-course-06",
+    "order": 12,
+    "title": "Android课程6章12",
+    "slug": "Android课程6章12",
+    "summary": "Android课程6章12",
+    "content": "# Android课程6章12\n\nAndroid课程6章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-078",
+    "courseId": "ad-course-06",
+    "order": 13,
+    "title": "Android课程6章13",
+    "slug": "Android课程6章13",
+    "summary": "Android课程6章13",
+    "content": "# Android课程6章13\n\nAndroid课程6章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-079",
+    "courseId": "ad-course-07",
+    "order": 1,
+    "title": "Android课程7章1",
+    "slug": "Android课程7章1",
+    "summary": "Android课程7章1",
+    "content": "# Android课程7章1\n\nAndroid课程7章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-080",
+    "courseId": "ad-course-07",
+    "order": 2,
+    "title": "Android课程7章2",
+    "slug": "Android课程7章2",
+    "summary": "Android课程7章2",
+    "content": "# Android课程7章2\n\nAndroid课程7章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-081",
+    "courseId": "ad-course-07",
+    "order": 3,
+    "title": "Android课程7章3",
+    "slug": "Android课程7章3",
+    "summary": "Android课程7章3",
+    "content": "# Android课程7章3\n\nAndroid课程7章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-082",
+    "courseId": "ad-course-07",
+    "order": 4,
+    "title": "Android课程7章4",
+    "slug": "Android课程7章4",
+    "summary": "Android课程7章4",
+    "content": "# Android课程7章4\n\nAndroid课程7章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-083",
+    "courseId": "ad-course-07",
+    "order": 5,
+    "title": "Android课程7章5",
+    "slug": "Android课程7章5",
+    "summary": "Android课程7章5",
+    "content": "# Android课程7章5\n\nAndroid课程7章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-084",
+    "courseId": "ad-course-07",
+    "order": 6,
+    "title": "Android课程7章6",
+    "slug": "Android课程7章6",
+    "summary": "Android课程7章6",
+    "content": "# Android课程7章6\n\nAndroid课程7章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-085",
+    "courseId": "ad-course-07",
+    "order": 7,
+    "title": "Android课程7章7",
+    "slug": "Android课程7章7",
+    "summary": "Android课程7章7",
+    "content": "# Android课程7章7\n\nAndroid课程7章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-086",
+    "courseId": "ad-course-07",
+    "order": 8,
+    "title": "Android课程7章8",
+    "slug": "Android课程7章8",
+    "summary": "Android课程7章8",
+    "content": "# Android课程7章8\n\nAndroid课程7章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-087",
+    "courseId": "ad-course-07",
+    "order": 9,
+    "title": "Android课程7章9",
+    "slug": "Android课程7章9",
+    "summary": "Android课程7章9",
+    "content": "# Android课程7章9\n\nAndroid课程7章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-088",
+    "courseId": "ad-course-07",
+    "order": 10,
+    "title": "Android课程7章10",
+    "slug": "Android课程7章10",
+    "summary": "Android课程7章10",
+    "content": "# Android课程7章10\n\nAndroid课程7章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-089",
+    "courseId": "ad-course-07",
+    "order": 11,
+    "title": "Android课程7章11",
+    "slug": "Android课程7章11",
+    "summary": "Android课程7章11",
+    "content": "# Android课程7章11\n\nAndroid课程7章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-090",
+    "courseId": "ad-course-07",
+    "order": 12,
+    "title": "Android课程7章12",
+    "slug": "Android课程7章12",
+    "summary": "Android课程7章12",
+    "content": "# Android课程7章12\n\nAndroid课程7章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-091",
+    "courseId": "ad-course-07",
+    "order": 13,
+    "title": "Android课程7章13",
+    "slug": "Android课程7章13",
+    "summary": "Android课程7章13",
+    "content": "# Android课程7章13\n\nAndroid课程7章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-092",
+    "courseId": "ad-course-08",
+    "order": 1,
+    "title": "Android课程8章1",
+    "slug": "Android课程8章1",
+    "summary": "Android课程8章1",
+    "content": "# Android课程8章1\n\nAndroid课程8章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-093",
+    "courseId": "ad-course-08",
+    "order": 2,
+    "title": "Android课程8章2",
+    "slug": "Android课程8章2",
+    "summary": "Android课程8章2",
+    "content": "# Android课程8章2\n\nAndroid课程8章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-094",
+    "courseId": "ad-course-08",
+    "order": 3,
+    "title": "Android课程8章3",
+    "slug": "Android课程8章3",
+    "summary": "Android课程8章3",
+    "content": "# Android课程8章3\n\nAndroid课程8章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-095",
+    "courseId": "ad-course-08",
+    "order": 4,
+    "title": "Android课程8章4",
+    "slug": "Android课程8章4",
+    "summary": "Android课程8章4",
+    "content": "# Android课程8章4\n\nAndroid课程8章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-096",
+    "courseId": "ad-course-08",
+    "order": 5,
+    "title": "Android课程8章5",
+    "slug": "Android课程8章5",
+    "summary": "Android课程8章5",
+    "content": "# Android课程8章5\n\nAndroid课程8章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-097",
+    "courseId": "ad-course-08",
+    "order": 6,
+    "title": "Android课程8章6",
+    "slug": "Android课程8章6",
+    "summary": "Android课程8章6",
+    "content": "# Android课程8章6\n\nAndroid课程8章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-098",
+    "courseId": "ad-course-08",
+    "order": 7,
+    "title": "Android课程8章7",
+    "slug": "Android课程8章7",
+    "summary": "Android课程8章7",
+    "content": "# Android课程8章7\n\nAndroid课程8章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-099",
+    "courseId": "ad-course-08",
+    "order": 8,
+    "title": "Android课程8章8",
+    "slug": "Android课程8章8",
+    "summary": "Android课程8章8",
+    "content": "# Android课程8章8\n\nAndroid课程8章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-100",
+    "courseId": "ad-course-08",
+    "order": 9,
+    "title": "Android课程8章9",
+    "slug": "Android课程8章9",
+    "summary": "Android课程8章9",
+    "content": "# Android课程8章9\n\nAndroid课程8章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-101",
+    "courseId": "ad-course-08",
+    "order": 10,
+    "title": "Android课程8章10",
+    "slug": "Android课程8章10",
+    "summary": "Android课程8章10",
+    "content": "# Android课程8章10\n\nAndroid课程8章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-102",
+    "courseId": "ad-course-08",
+    "order": 11,
+    "title": "Android课程8章11",
+    "slug": "Android课程8章11",
+    "summary": "Android课程8章11",
+    "content": "# Android课程8章11\n\nAndroid课程8章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-103",
+    "courseId": "ad-course-08",
+    "order": 12,
+    "title": "Android课程8章12",
+    "slug": "Android课程8章12",
+    "summary": "Android课程8章12",
+    "content": "# Android课程8章12\n\nAndroid课程8章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-104",
+    "courseId": "ad-course-08",
+    "order": 13,
+    "title": "Android课程8章13",
+    "slug": "Android课程8章13",
+    "summary": "Android课程8章13",
+    "content": "# Android课程8章13\n\nAndroid课程8章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-105",
+    "courseId": "ad-course-09",
+    "order": 1,
+    "title": "Android课程9章1",
+    "slug": "Android课程9章1",
+    "summary": "Android课程9章1",
+    "content": "# Android课程9章1\n\nAndroid课程9章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-106",
+    "courseId": "ad-course-09",
+    "order": 2,
+    "title": "Android课程9章2",
+    "slug": "Android课程9章2",
+    "summary": "Android课程9章2",
+    "content": "# Android课程9章2\n\nAndroid课程9章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-107",
+    "courseId": "ad-course-09",
+    "order": 3,
+    "title": "Android课程9章3",
+    "slug": "Android课程9章3",
+    "summary": "Android课程9章3",
+    "content": "# Android课程9章3\n\nAndroid课程9章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-108",
+    "courseId": "ad-course-09",
+    "order": 4,
+    "title": "Android课程9章4",
+    "slug": "Android课程9章4",
+    "summary": "Android课程9章4",
+    "content": "# Android课程9章4\n\nAndroid课程9章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-109",
+    "courseId": "ad-course-09",
+    "order": 5,
+    "title": "Android课程9章5",
+    "slug": "Android课程9章5",
+    "summary": "Android课程9章5",
+    "content": "# Android课程9章5\n\nAndroid课程9章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-110",
+    "courseId": "ad-course-09",
+    "order": 6,
+    "title": "Android课程9章6",
+    "slug": "Android课程9章6",
+    "summary": "Android课程9章6",
+    "content": "# Android课程9章6\n\nAndroid课程9章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-111",
+    "courseId": "ad-course-09",
+    "order": 7,
+    "title": "Android课程9章7",
+    "slug": "Android课程9章7",
+    "summary": "Android课程9章7",
+    "content": "# Android课程9章7\n\nAndroid课程9章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-112",
+    "courseId": "ad-course-09",
+    "order": 8,
+    "title": "Android课程9章8",
+    "slug": "Android课程9章8",
+    "summary": "Android课程9章8",
+    "content": "# Android课程9章8\n\nAndroid课程9章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-113",
+    "courseId": "ad-course-09",
+    "order": 9,
+    "title": "Android课程9章9",
+    "slug": "Android课程9章9",
+    "summary": "Android课程9章9",
+    "content": "# Android课程9章9\n\nAndroid课程9章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-114",
+    "courseId": "ad-course-09",
+    "order": 10,
+    "title": "Android课程9章10",
+    "slug": "Android课程9章10",
+    "summary": "Android课程9章10",
+    "content": "# Android课程9章10\n\nAndroid课程9章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-115",
+    "courseId": "ad-course-09",
+    "order": 11,
+    "title": "Android课程9章11",
+    "slug": "Android课程9章11",
+    "summary": "Android课程9章11",
+    "content": "# Android课程9章11\n\nAndroid课程9章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-116",
+    "courseId": "ad-course-09",
+    "order": 12,
+    "title": "Android课程9章12",
+    "slug": "Android课程9章12",
+    "summary": "Android课程9章12",
+    "content": "# Android课程9章12\n\nAndroid课程9章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-117",
+    "courseId": "ad-course-09",
+    "order": 13,
+    "title": "Android课程9章13",
+    "slug": "Android课程9章13",
+    "summary": "Android课程9章13",
+    "content": "# Android课程9章13\n\nAndroid课程9章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-118",
+    "courseId": "ad-course-10",
+    "order": 1,
+    "title": "Android课程10章1",
+    "slug": "Android课程10章1",
+    "summary": "Android课程10章1",
+    "content": "# Android课程10章1\n\nAndroid课程10章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-119",
+    "courseId": "ad-course-10",
+    "order": 2,
+    "title": "Android课程10章2",
+    "slug": "Android课程10章2",
+    "summary": "Android课程10章2",
+    "content": "# Android课程10章2\n\nAndroid课程10章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-120",
+    "courseId": "ad-course-10",
+    "order": 3,
+    "title": "Android课程10章3",
+    "slug": "Android课程10章3",
+    "summary": "Android课程10章3",
+    "content": "# Android课程10章3\n\nAndroid课程10章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-121",
+    "courseId": "ad-course-10",
+    "order": 4,
+    "title": "Android课程10章4",
+    "slug": "Android课程10章4",
+    "summary": "Android课程10章4",
+    "content": "# Android课程10章4\n\nAndroid课程10章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-122",
+    "courseId": "ad-course-10",
+    "order": 5,
+    "title": "Android课程10章5",
+    "slug": "Android课程10章5",
+    "summary": "Android课程10章5",
+    "content": "# Android课程10章5\n\nAndroid课程10章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-123",
+    "courseId": "ad-course-10",
+    "order": 6,
+    "title": "Android课程10章6",
+    "slug": "Android课程10章6",
+    "summary": "Android课程10章6",
+    "content": "# Android课程10章6\n\nAndroid课程10章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-124",
+    "courseId": "ad-course-10",
+    "order": 7,
+    "title": "Android课程10章7",
+    "slug": "Android课程10章7",
+    "summary": "Android课程10章7",
+    "content": "# Android课程10章7\n\nAndroid课程10章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-125",
+    "courseId": "ad-course-10",
+    "order": 8,
+    "title": "Android课程10章8",
+    "slug": "Android课程10章8",
+    "summary": "Android课程10章8",
+    "content": "# Android课程10章8\n\nAndroid课程10章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-126",
+    "courseId": "ad-course-10",
+    "order": 9,
+    "title": "Android课程10章9",
+    "slug": "Android课程10章9",
+    "summary": "Android课程10章9",
+    "content": "# Android课程10章9\n\nAndroid课程10章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-127",
+    "courseId": "ad-course-10",
+    "order": 10,
+    "title": "Android课程10章10",
+    "slug": "Android课程10章10",
+    "summary": "Android课程10章10",
+    "content": "# Android课程10章10\n\nAndroid课程10章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-128",
+    "courseId": "ad-course-10",
+    "order": 11,
+    "title": "Android课程10章11",
+    "slug": "Android课程10章11",
+    "summary": "Android课程10章11",
+    "content": "# Android课程10章11\n\nAndroid课程10章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-129",
+    "courseId": "ad-course-10",
+    "order": 12,
+    "title": "Android课程10章12",
+    "slug": "Android课程10章12",
+    "summary": "Android课程10章12",
+    "content": "# Android课程10章12\n\nAndroid课程10章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-130",
+    "courseId": "ad-course-10",
+    "order": 13,
+    "title": "Android课程10章13",
+    "slug": "Android课程10章13",
+    "summary": "Android课程10章13",
+    "content": "# Android课程10章13\n\nAndroid课程10章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-131",
+    "courseId": "ad-course-11",
+    "order": 1,
+    "title": "Android课程11章1",
+    "slug": "Android课程11章1",
+    "summary": "Android课程11章1",
+    "content": "# Android课程11章1\n\nAndroid课程11章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-132",
+    "courseId": "ad-course-11",
+    "order": 2,
+    "title": "Android课程11章2",
+    "slug": "Android课程11章2",
+    "summary": "Android课程11章2",
+    "content": "# Android课程11章2\n\nAndroid课程11章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-133",
+    "courseId": "ad-course-11",
+    "order": 3,
+    "title": "Android课程11章3",
+    "slug": "Android课程11章3",
+    "summary": "Android课程11章3",
+    "content": "# Android课程11章3\n\nAndroid课程11章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-134",
+    "courseId": "ad-course-11",
+    "order": 4,
+    "title": "Android课程11章4",
+    "slug": "Android课程11章4",
+    "summary": "Android课程11章4",
+    "content": "# Android课程11章4\n\nAndroid课程11章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-135",
+    "courseId": "ad-course-11",
+    "order": 5,
+    "title": "Android课程11章5",
+    "slug": "Android课程11章5",
+    "summary": "Android课程11章5",
+    "content": "# Android课程11章5\n\nAndroid课程11章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-136",
+    "courseId": "ad-course-11",
+    "order": 6,
+    "title": "Android课程11章6",
+    "slug": "Android课程11章6",
+    "summary": "Android课程11章6",
+    "content": "# Android课程11章6\n\nAndroid课程11章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-137",
+    "courseId": "ad-course-11",
+    "order": 7,
+    "title": "Android课程11章7",
+    "slug": "Android课程11章7",
+    "summary": "Android课程11章7",
+    "content": "# Android课程11章7\n\nAndroid课程11章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-138",
+    "courseId": "ad-course-11",
+    "order": 8,
+    "title": "Android课程11章8",
+    "slug": "Android课程11章8",
+    "summary": "Android课程11章8",
+    "content": "# Android课程11章8\n\nAndroid课程11章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-139",
+    "courseId": "ad-course-11",
+    "order": 9,
+    "title": "Android课程11章9",
+    "slug": "Android课程11章9",
+    "summary": "Android课程11章9",
+    "content": "# Android课程11章9\n\nAndroid课程11章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-140",
+    "courseId": "ad-course-11",
+    "order": 10,
+    "title": "Android课程11章10",
+    "slug": "Android课程11章10",
+    "summary": "Android课程11章10",
+    "content": "# Android课程11章10\n\nAndroid课程11章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-141",
+    "courseId": "ad-course-11",
+    "order": 11,
+    "title": "Android课程11章11",
+    "slug": "Android课程11章11",
+    "summary": "Android课程11章11",
+    "content": "# Android课程11章11\n\nAndroid课程11章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-142",
+    "courseId": "ad-course-11",
+    "order": 12,
+    "title": "Android课程11章12",
+    "slug": "Android课程11章12",
+    "summary": "Android课程11章12",
+    "content": "# Android课程11章12\n\nAndroid课程11章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-143",
+    "courseId": "ad-course-11",
+    "order": 13,
+    "title": "Android课程11章13",
+    "slug": "Android课程11章13",
+    "summary": "Android课程11章13",
+    "content": "# Android课程11章13\n\nAndroid课程11章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-144",
+    "courseId": "ad-course-12",
+    "order": 1,
+    "title": "Android课程12章1",
+    "slug": "Android课程12章1",
+    "summary": "Android课程12章1",
+    "content": "# Android课程12章1\n\nAndroid课程12章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-145",
+    "courseId": "ad-course-12",
+    "order": 2,
+    "title": "Android课程12章2",
+    "slug": "Android课程12章2",
+    "summary": "Android课程12章2",
+    "content": "# Android课程12章2\n\nAndroid课程12章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-146",
+    "courseId": "ad-course-12",
+    "order": 3,
+    "title": "Android课程12章3",
+    "slug": "Android课程12章3",
+    "summary": "Android课程12章3",
+    "content": "# Android课程12章3\n\nAndroid课程12章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-147",
+    "courseId": "ad-course-12",
+    "order": 4,
+    "title": "Android课程12章4",
+    "slug": "Android课程12章4",
+    "summary": "Android课程12章4",
+    "content": "# Android课程12章4\n\nAndroid课程12章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-148",
+    "courseId": "ad-course-12",
+    "order": 5,
+    "title": "Android课程12章5",
+    "slug": "Android课程12章5",
+    "summary": "Android课程12章5",
+    "content": "# Android课程12章5\n\nAndroid课程12章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-149",
+    "courseId": "ad-course-12",
+    "order": 6,
+    "title": "Android课程12章6",
+    "slug": "Android课程12章6",
+    "summary": "Android课程12章6",
+    "content": "# Android课程12章6\n\nAndroid课程12章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-150",
+    "courseId": "ad-course-12",
+    "order": 7,
+    "title": "Android课程12章7",
+    "slug": "Android课程12章7",
+    "summary": "Android课程12章7",
+    "content": "# Android课程12章7\n\nAndroid课程12章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-151",
+    "courseId": "ad-course-12",
+    "order": 8,
+    "title": "Android课程12章8",
+    "slug": "Android课程12章8",
+    "summary": "Android课程12章8",
+    "content": "# Android课程12章8\n\nAndroid课程12章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-152",
+    "courseId": "ad-course-12",
+    "order": 9,
+    "title": "Android课程12章9",
+    "slug": "Android课程12章9",
+    "summary": "Android课程12章9",
+    "content": "# Android课程12章9\n\nAndroid课程12章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-153",
+    "courseId": "ad-course-12",
+    "order": 10,
+    "title": "Android课程12章10",
+    "slug": "Android课程12章10",
+    "summary": "Android课程12章10",
+    "content": "# Android课程12章10\n\nAndroid课程12章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-154",
+    "courseId": "ad-course-12",
+    "order": 11,
+    "title": "Android课程12章11",
+    "slug": "Android课程12章11",
+    "summary": "Android课程12章11",
+    "content": "# Android课程12章11\n\nAndroid课程12章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-155",
+    "courseId": "ad-course-12",
+    "order": 12,
+    "title": "Android课程12章12",
+    "slug": "Android课程12章12",
+    "summary": "Android课程12章12",
+    "content": "# Android课程12章12\n\nAndroid课程12章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-156",
+    "courseId": "ad-course-12",
+    "order": 13,
+    "title": "Android课程12章13",
+    "slug": "Android课程12章13",
+    "summary": "Android课程12章13",
+    "content": "# Android课程12章13\n\nAndroid课程12章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-157",
+    "courseId": "ad-course-13",
+    "order": 1,
+    "title": "Android课程13章1",
+    "slug": "Android课程13章1",
+    "summary": "Android课程13章1",
+    "content": "# Android课程13章1\n\nAndroid课程13章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-158",
+    "courseId": "ad-course-13",
+    "order": 2,
+    "title": "Android课程13章2",
+    "slug": "Android课程13章2",
+    "summary": "Android课程13章2",
+    "content": "# Android课程13章2\n\nAndroid课程13章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-159",
+    "courseId": "ad-course-13",
+    "order": 3,
+    "title": "Android课程13章3",
+    "slug": "Android课程13章3",
+    "summary": "Android课程13章3",
+    "content": "# Android课程13章3\n\nAndroid课程13章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-160",
+    "courseId": "ad-course-13",
+    "order": 4,
+    "title": "Android课程13章4",
+    "slug": "Android课程13章4",
+    "summary": "Android课程13章4",
+    "content": "# Android课程13章4\n\nAndroid课程13章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-161",
+    "courseId": "ad-course-13",
+    "order": 5,
+    "title": "Android课程13章5",
+    "slug": "Android课程13章5",
+    "summary": "Android课程13章5",
+    "content": "# Android课程13章5\n\nAndroid课程13章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-162",
+    "courseId": "ad-course-13",
+    "order": 6,
+    "title": "Android课程13章6",
+    "slug": "Android课程13章6",
+    "summary": "Android课程13章6",
+    "content": "# Android课程13章6\n\nAndroid课程13章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-163",
+    "courseId": "ad-course-13",
+    "order": 7,
+    "title": "Android课程13章7",
+    "slug": "Android课程13章7",
+    "summary": "Android课程13章7",
+    "content": "# Android课程13章7\n\nAndroid课程13章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-164",
+    "courseId": "ad-course-13",
+    "order": 8,
+    "title": "Android课程13章8",
+    "slug": "Android课程13章8",
+    "summary": "Android课程13章8",
+    "content": "# Android课程13章8\n\nAndroid课程13章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-165",
+    "courseId": "ad-course-13",
+    "order": 9,
+    "title": "Android课程13章9",
+    "slug": "Android课程13章9",
+    "summary": "Android课程13章9",
+    "content": "# Android课程13章9\n\nAndroid课程13章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-166",
+    "courseId": "ad-course-13",
+    "order": 10,
+    "title": "Android课程13章10",
+    "slug": "Android课程13章10",
+    "summary": "Android课程13章10",
+    "content": "# Android课程13章10\n\nAndroid课程13章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-167",
+    "courseId": "ad-course-13",
+    "order": 11,
+    "title": "Android课程13章11",
+    "slug": "Android课程13章11",
+    "summary": "Android课程13章11",
+    "content": "# Android课程13章11\n\nAndroid课程13章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-168",
+    "courseId": "ad-course-13",
+    "order": 12,
+    "title": "Android课程13章12",
+    "slug": "Android课程13章12",
+    "summary": "Android课程13章12",
+    "content": "# Android课程13章12\n\nAndroid课程13章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-169",
+    "courseId": "ad-course-13",
+    "order": 13,
+    "title": "Android课程13章13",
+    "slug": "Android课程13章13",
+    "summary": "Android课程13章13",
+    "content": "# Android课程13章13\n\nAndroid课程13章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-170",
+    "courseId": "ad-course-14",
+    "order": 1,
+    "title": "Android课程14章1",
+    "slug": "Android课程14章1",
+    "summary": "Android课程14章1",
+    "content": "# Android课程14章1\n\nAndroid课程14章1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-171",
+    "courseId": "ad-course-14",
+    "order": 2,
+    "title": "Android课程14章2",
+    "slug": "Android课程14章2",
+    "summary": "Android课程14章2",
+    "content": "# Android课程14章2\n\nAndroid课程14章2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-172",
+    "courseId": "ad-course-14",
+    "order": 3,
+    "title": "Android课程14章3",
+    "slug": "Android课程14章3",
+    "summary": "Android课程14章3",
+    "content": "# Android课程14章3\n\nAndroid课程14章3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-173",
+    "courseId": "ad-course-14",
+    "order": 4,
+    "title": "Android课程14章4",
+    "slug": "Android课程14章4",
+    "summary": "Android课程14章4",
+    "content": "# Android课程14章4\n\nAndroid课程14章4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-174",
+    "courseId": "ad-course-14",
+    "order": 5,
+    "title": "Android课程14章5",
+    "slug": "Android课程14章5",
+    "summary": "Android课程14章5",
+    "content": "# Android课程14章5\n\nAndroid课程14章5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-175",
+    "courseId": "ad-course-14",
+    "order": 6,
+    "title": "Android课程14章6",
+    "slug": "Android课程14章6",
+    "summary": "Android课程14章6",
+    "content": "# Android课程14章6\n\nAndroid课程14章6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-176",
+    "courseId": "ad-course-14",
+    "order": 7,
+    "title": "Android课程14章7",
+    "slug": "Android课程14章7",
+    "summary": "Android课程14章7",
+    "content": "# Android课程14章7\n\nAndroid课程14章7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-177",
+    "courseId": "ad-course-14",
+    "order": 8,
+    "title": "Android课程14章8",
+    "slug": "Android课程14章8",
+    "summary": "Android课程14章8",
+    "content": "# Android课程14章8\n\nAndroid课程14章8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-178",
+    "courseId": "ad-course-14",
+    "order": 9,
+    "title": "Android课程14章9",
+    "slug": "Android课程14章9",
+    "summary": "Android课程14章9",
+    "content": "# Android课程14章9\n\nAndroid课程14章9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-179",
+    "courseId": "ad-course-14",
+    "order": 10,
+    "title": "Android课程14章10",
+    "slug": "Android课程14章10",
+    "summary": "Android课程14章10",
+    "content": "# Android课程14章10\n\nAndroid课程14章10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-180",
+    "courseId": "ad-course-14",
+    "order": 11,
+    "title": "Android课程14章11",
+    "slug": "Android课程14章11",
+    "summary": "Android课程14章11",
+    "content": "# Android课程14章11\n\nAndroid课程14章11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-181",
+    "courseId": "ad-course-14",
+    "order": 12,
+    "title": "Android课程14章12",
+    "slug": "Android课程14章12",
+    "summary": "Android课程14章12",
+    "content": "# Android课程14章12\n\nAndroid课程14章12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ad-lesson-182",
+    "courseId": "ad-course-14",
+    "order": 13,
+    "title": "Android课程14章13",
+    "slug": "Android课程14章13",
+    "summary": "Android课程14章13",
+    "content": "# Android课程14章13\n\nAndroid课程14章13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Android"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

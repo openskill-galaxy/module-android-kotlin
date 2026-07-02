@@ -1,0 +1,41 @@
+{
+  "id": "mod-android-kotlin",
+  "slug": "module-android-kotlin",
+  "title": "Android与Kotlin移动开发",
+  "subtitle": "面向移动开发入门者",
+  "description": "面向移动开发入门者的KotlinAndroid StudioActivity布局RecyclerViewFragment权限本地存储网络请求JetpackMVVMCompose与App项目实战训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "Android",
+    "Kotlin",
+    "移动开发",
+    "Jetpack",
+    "MVVM",
+    "Compose",
+    "RecyclerView",
+    "App开发"
+  ],
+  "estimatedHours": 180,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "📱",
+  "repoUrl": "https://github.com/openskill-galaxy/module-android-kotlin",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 131
+  }
+}
