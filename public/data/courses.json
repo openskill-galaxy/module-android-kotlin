@@ -34,7 +34,23 @@
       "理解生命周期",
       "会MVVM架构"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ad-lesson-001",
+      "ad-lesson-002",
+      "ad-lesson-003",
+      "ad-lesson-004",
+      "ad-lesson-005",
+      "ad-lesson-006",
+      "ad-lesson-007",
+      "ad-lesson-008",
+      "ad-lesson-009",
+      "ad-lesson-010",
+      "ad-lesson-011",
+      "ad-lesson-012",
+      "ad-lesson-013"
+    ],
+    "summary": "Android概述、技术栈、学习路线。"
   },
   {
     "id": "ad-course-02",
@@ -71,7 +87,23 @@
       "理解生命周期",
       "会MVVM架构"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ad-lesson-014",
+      "ad-lesson-015",
+      "ad-lesson-016",
+      "ad-lesson-017",
+      "ad-lesson-018",
+      "ad-lesson-019",
+      "ad-lesson-020",
+      "ad-lesson-021",
+      "ad-lesson-022",
+      "ad-lesson-023",
+      "ad-lesson-024",
+      "ad-lesson-025",
+      "ad-lesson-026"
+    ],
+    "summary": "变量、函数、类、空安全、扩展函数、协程基础。"
   },
   {
     "id": "ad-course-03",
@@ -108,7 +140,23 @@
       "理解生命周期",
       "会MVVM架构"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ad-lesson-027",
+      "ad-lesson-028",
+      "ad-lesson-029",
+      "ad-lesson-030",
+      "ad-lesson-031",
+      "ad-lesson-032",
+      "ad-lesson-033",
+      "ad-lesson-034",
+      "ad-lesson-035",
+      "ad-lesson-036",
+      "ad-lesson-037",
+      "ad-lesson-038",
+      "ad-lesson-039"
+    ],
+    "summary": "Gradle、Manifest、目录结构、模拟器、调试。"
   },
   {
     "id": "ad-course-04",
@@ -145,7 +193,23 @@
       "理解生命周期",
       "会MVVM架构"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ad-lesson-040",
+      "ad-lesson-041",
+      "ad-lesson-042",
+      "ad-lesson-043",
+      "ad-lesson-044",
+      "ad-lesson-045",
+      "ad-lesson-046",
+      "ad-lesson-047",
+      "ad-lesson-048",
+      "ad-lesson-049",
+      "ad-lesson-050",
+      "ad-lesson-051",
+      "ad-lesson-052"
+    ],
+    "summary": "Activity生命周期、Intent启动、Bundle传参。"
   },
   {
     "id": "ad-course-05",
@@ -182,7 +246,23 @@
       "理解生命周期",
       "会MVVM架构"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ad-lesson-053",
+      "ad-lesson-054",
+      "ad-lesson-055",
+      "ad-lesson-056",
+      "ad-lesson-057",
+      "ad-lesson-058",
+      "ad-lesson-059",
+      "ad-lesson-060",
+      "ad-lesson-061",
+      "ad-lesson-062",
+      "ad-lesson-063",
+      "ad-lesson-064",
+      "ad-lesson-065"
+    ],
+    "summary": "Layout、TextView、Button、EditText、事件监听。"
   },
   {
     "id": "ad-course-06",
@@ -219,7 +299,23 @@
       "理解生命周期",
       "会MVVM架构"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ad-lesson-066",
+      "ad-lesson-067",
+      "ad-lesson-068",
+      "ad-lesson-069",
+      "ad-lesson-070",
+      "ad-lesson-071",
+      "ad-lesson-072",
+      "ad-lesson-073",
+      "ad-lesson-074",
+      "ad-lesson-075",
+      "ad-lesson-076",
+      "ad-lesson-077",
+      "ad-lesson-078"
+    ],
+    "summary": "RecyclerView、Adapter、ViewHolder、列表、点击。"
   },
   {
     "id": "ad-course-07",
@@ -256,7 +352,23 @@
       "理解生命周期",
       "会MVVM架构"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ad-lesson-079",
+      "ad-lesson-080",
+      "ad-lesson-081",
+      "ad-lesson-082",
+      "ad-lesson-083",
+      "ad-lesson-084",
+      "ad-lesson-085",
+      "ad-lesson-086",
+      "ad-lesson-087",
+      "ad-lesson-088",
+      "ad-lesson-089",
+      "ad-lesson-090",
+      "ad-lesson-091"
+    ],
+    "summary": "Fragment生命周期、Navigation、NavGraph。"
   },
   {
     "id": "ad-course-08",
@@ -293,7 +405,23 @@
       "理解生命周期",
       "会MVVM架构"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ad-lesson-092",
+      "ad-lesson-093",
+      "ad-lesson-094",
+      "ad-lesson-095",
+      "ad-lesson-096",
+      "ad-lesson-097",
+      "ad-lesson-098",
+      "ad-lesson-099",
+      "ad-lesson-100",
+      "ad-lesson-101",
+      "ad-lesson-102",
+      "ad-lesson-103",
+      "ad-lesson-104"
+    ],
+    "summary": "隐式Intent、运行时权限、通知栏、Toast/Dialog。"
   },
   {
     "id": "ad-course-09",
@@ -330,7 +458,23 @@
       "理解生命周期",
       "会MVVM架构"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ad-lesson-105",
+      "ad-lesson-106",
+      "ad-lesson-107",
+      "ad-lesson-108",
+      "ad-lesson-109",
+      "ad-lesson-110",
+      "ad-lesson-111",
+      "ad-lesson-112",
+      "ad-lesson-113",
+      "ad-lesson-114",
+      "ad-lesson-115",
+      "ad-lesson-116",
+      "ad-lesson-117"
+    ],
+    "summary": "SharedPreferences、文件存储、SQLite、Room。"
   },
   {
     "id": "ad-course-10",
@@ -367,7 +511,23 @@
       "理解生命周期",
       "会MVVM架构"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ad-lesson-118",
+      "ad-lesson-119",
+      "ad-lesson-120",
+      "ad-lesson-121",
+      "ad-lesson-122",
+      "ad-lesson-123",
+      "ad-lesson-124",
+      "ad-lesson-125",
+      "ad-lesson-126",
+      "ad-lesson-127",
+      "ad-lesson-128",
+      "ad-lesson-129",
+      "ad-lesson-130"
+    ],
+    "summary": "Retrofit、OkHttp、协程网络、JSON解析。"
   },
   {
     "id": "ad-course-11",
@@ -404,7 +564,23 @@
       "理解生命周期",
       "会MVVM架构"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ad-lesson-131",
+      "ad-lesson-132",
+      "ad-lesson-133",
+      "ad-lesson-134",
+      "ad-lesson-135",
+      "ad-lesson-136",
+      "ad-lesson-137",
+      "ad-lesson-138",
+      "ad-lesson-139",
+      "ad-lesson-140",
+      "ad-lesson-141",
+      "ad-lesson-142",
+      "ad-lesson-143"
+    ],
+    "summary": "ViewModel、LiveData、StateFlow、Lifecycle。"
   },
   {
     "id": "ad-course-12",
@@ -441,7 +617,23 @@
       "理解生命周期",
       "会MVVM架构"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ad-lesson-144",
+      "ad-lesson-145",
+      "ad-lesson-146",
+      "ad-lesson-147",
+      "ad-lesson-148",
+      "ad-lesson-149",
+      "ad-lesson-150",
+      "ad-lesson-151",
+      "ad-lesson-152",
+      "ad-lesson-153",
+      "ad-lesson-154",
+      "ad-lesson-155",
+      "ad-lesson-156"
+    ],
+    "summary": "MVVM设计、Repository、依赖注入入门。"
   },
   {
     "id": "ad-course-13",
@@ -478,7 +670,23 @@
       "理解生命周期",
       "会MVVM架构"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ad-lesson-157",
+      "ad-lesson-158",
+      "ad-lesson-159",
+      "ad-lesson-160",
+      "ad-lesson-161",
+      "ad-lesson-162",
+      "ad-lesson-163",
+      "ad-lesson-164",
+      "ad-lesson-165",
+      "ad-lesson-166",
+      "ad-lesson-167",
+      "ad-lesson-168",
+      "ad-lesson-169"
+    ],
+    "summary": "Composable、State、LazyColumn、Material3。"
   },
   {
     "id": "ad-course-14",
@@ -515,6 +723,22 @@
       "理解生命周期",
       "会MVVM架构"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "ad-lesson-170",
+      "ad-lesson-171",
+      "ad-lesson-172",
+      "ad-lesson-173",
+      "ad-lesson-174",
+      "ad-lesson-175",
+      "ad-lesson-176",
+      "ad-lesson-177",
+      "ad-lesson-178",
+      "ad-lesson-179",
+      "ad-lesson-180",
+      "ad-lesson-181",
+      "ad-lesson-182"
+    ],
+    "summary": "项目整合、打包APK、面试题。"
   }
 ]
